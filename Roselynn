@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roselynn's Poetry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7e9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+        }
+        h2 {
+            font-size: 2em;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .poem {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f0fff4;
+            border-left: 5px solid #7fc97f;
+        }
+        .book {
+            background-color: #f0fff4;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        .contact {
+            text-align: center;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Roselynn's Poetry</h1>
+    <p>Poet | Author of "The Cold CEO Is A Lover"</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! My name is Roselynn. I'm a poet and my work has been featured in the anthology "Sunset Hues." I frequently share my poems on Instagram. Follow me <a href="https://www.instagram.com/__rose__lyn_" target="_blank">@__rose__lyn_</a>.</p>
+</section>
+
+<section>
+    <h2>My Poems</h2>
+    <div class="poem">
+        <h3>Your Eyes</h3>
+        <p>
+            (Featured in "Sunset Hues")<br>
+            Your eyes, a deep and endless sea,<br>
+            Where stars reflect and set me free.<br>
+            In their gaze, I find my peace,<br>
+            A tranquil world, where sorrows cease.
+        </p>
+    </div>
+    <!-- Add more poems here as needed -->
+</section>
+
+<section>
+    <h2>Upcoming Book</h2>
+    <div class="book">
+        <h3>The Cold CEO Is A Lover</h3>
+        <p>Stay tuned for my upcoming book, "The Cold CEO Is A Lover," a captivating tale of love and transformation. More details coming soon!</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out to me on Instagram: <a href="https://www.instagram.com/__rose__lyn_" target="_blank">@__rose__lyn_</a></p>
+</section>
+
+</body>
+</html>
